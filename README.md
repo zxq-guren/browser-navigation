@@ -6,7 +6,9 @@
 
 [原链接](http://captaininphw.xyz/browser-navigation-page/index.html)
 ---
-修复BUG ie兼容不了Object.values，需添加一个判断属性 
+修复BUG 
+
+ie兼容不了Object.values，需添加一个判断属性 
 
 ```
 //兼容IE浏览器 Object.values兼容不支持它的旧环境IE
